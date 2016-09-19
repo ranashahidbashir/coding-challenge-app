@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Name List</string>
+    <string name="name_label">Add Name</string>
+    <string name="f_name">Enter First Name</string>
+    <string name="l_name">Enter Last Name</string>
+    <string name="action_settings">Settings</string>
+</resources>
